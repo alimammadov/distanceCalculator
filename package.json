@@ -1,0 +1,50 @@
+{
+  "_from": "distancecalculator_formula@^1.0.0",
+  "_id": "distancecalculator_formula@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-5CjJSpcGx2RaLGCDiw43C/zNS/NPFBWNETtOnF/OfDwr2MTJ40VUA7FQWNv92r2oxM+Q1CiQnjKsBY9mtBsHig==",
+  "_location": "/distancecalculator_formula",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "distancecalculator_formula@^1.0.0",
+    "name": "distancecalculator_formula",
+    "escapedName": "distancecalculator_formula",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/distancecalculator_formula/-/distancecalculator_formula-1.0.0.tgz",
+  "_shasum": "05ce1de8ff5556fed332f424467357ae3ef9a385",
+  "_spec": "distancecalculator_formula@^1.0.0",
+  "_where": "C:\\Users\\Ali\\Desktop\\NodeJs Projects\\nodeModules\\nodeOne\\test",
+  "author": {
+    "name": "Ali Mammadov"
+  },
+  "bugs": {
+    "url": "https://github.com/alimammadov/distanceCalculator/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "distance calculator between 2 addresses",
+  "homepage": "https://github.com/alimammadov/distanceCalculator#readme",
+  "keywords": [
+    "Maps"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "distancecalculator_formula",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alimammadov/distanceCalculator.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
