@@ -1,6 +1,6 @@
 # What is this?
 
-distanceCalculator calculates distance between two coordinates.
+distanceCalculator calculates directly distance between two coordinates.
 
 
 # Installation
@@ -11,8 +11,9 @@ distanceCalculator calculates distance between two coordinates.
 
 ```const calculateDis = require('distancecalculator_formula'))```
 
-## Coordinates of point
+## Points
 ```const pointOne = {lat: 40.7767644, lng: -73.9761399};```
+
 ```const pointTwo = {lat: 40.771209, lng: -73.9673991};```
 
 # 
